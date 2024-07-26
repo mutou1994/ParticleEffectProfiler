@@ -1,0 +1,2 @@
+# ParticleEffectProfiler
+一个可批量自动检测特效性能指标和制作规范的工具
